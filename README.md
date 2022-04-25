@@ -6,7 +6,7 @@ Sentiment analysis is a tool used to analyze texts for polarity i.e. positive to
 
 In this repository you will find: 
 1) Code 
-2) Dataset 
+2) Dataset - https://www.kaggle.com/datasets/sameersmahajan/reviews-of-amazon-baby-products
 3) Results (Screenshots)
 4) Reports 
  4.1) Weekly Reports
